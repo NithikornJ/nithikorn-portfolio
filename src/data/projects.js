@@ -12,8 +12,8 @@ export const projects = [
     description: "เว็บแสดงโปรไฟล์และโปรเจกต์ของตัวเองด้วย React + Tailwind",
     techs: ["React", "Tailwind", "DaisyUI"],
     image: "/projects/portfolio.png",
-    link: "https://lawsearch.nithikorn.dev",
-    github: "https://github.com/NithikornJ/portfolio",
+    // link: "https://lawsearch.nithikorn.dev",
+    github: "https://github.com/NithikornJ/nithikorn-portfolio",
     category: "frontend",
   },
 ];
