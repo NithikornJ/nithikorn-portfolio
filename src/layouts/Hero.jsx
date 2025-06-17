@@ -6,7 +6,7 @@ export default function Hero() {
       <section id="home" className="hero min-h-screen pt-20 lg:pt-0">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            src="../assets/img-profile.jpg"
+            src="/assets/img-profile.jpg"
             className="max-w-sm rounded-lg shadow-2xl opacity-0 animate-[fadeIn_1s_ease-in-out_forwards] hover:scale-105 transition-transform duration-300"
             alt="Nithikorn"
           />
